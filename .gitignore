@@ -27,7 +27,6 @@ yarn-error.log*
 
 # Environment Variables - NEVER commit these!
 .env*.local
-.env
 
 # Vercel
 .vercel
@@ -90,3 +89,6 @@ docs/changes.md
 docs/production_readiness_report.md
 
 config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
